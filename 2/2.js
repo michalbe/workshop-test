@@ -2,7 +2,7 @@
 var assert = require('assert');
 
 // LOGIC
-var getNewUserInstance = function(a, b) {
+var getNewUserInstance = function() {
   return {
     firstName: 'Pol',
     secondName: 'Pot',
