@@ -1,0 +1,7 @@
+{
+  "name": "test-workshop",
+  "version": "0.0.0",
+  "devDependencies": {
+    "mocha": "^3.0.2"
+  }
+}
